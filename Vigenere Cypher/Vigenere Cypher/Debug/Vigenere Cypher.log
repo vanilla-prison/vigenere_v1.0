@@ -1,0 +1,10 @@
+﻿  Vigenere Cypher.cpp
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(158,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(340,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(351,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Vigenere Cypher\Vigenere Cypher.cpp(419,20): warning C4018: '<': signed/unsigned mismatch
+  Vigenere Cypher.vcxproj -> C:\Users\Nathans Laptop\Desktop\Vigenere Cypher\Debug\Vigenere Cypher.exe
